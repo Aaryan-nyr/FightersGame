@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Project",
+			"path": "."
+		},
+	],
+	"settings": {
+		"files.associations": {
+			"string.h": "c",
+			"typeinfo": "c"
+		}
+	}
+}
